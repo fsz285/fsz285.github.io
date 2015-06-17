@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ferdis Blog</title>
-    <atom:link href="http://example.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <link>http://example.com/</link>
+    <atom:link href="http://fsz285.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>http://fsz285.github.io/</link>
     <description>A website with blog posts and pages</description>
-    <pubDate>Wed, 17 Jun 2015 04:52:56 +0000</pubDate>
+    <pubDate>Wed, 17 Jun 2015 05:30:56 +0000</pubDate>
     
       <item>
         <title>Für's Grobe...</title>
-        <link>http://example.com/2015/06/16/fuers-grobe.html</link>
-        <guid isPermaLink="true">http://example.com/2015/06/16/fuers-grobe.html</guid>
+        <link>http://fsz285.github.io/2015/06/16/fuers-grobe.html</link>
+        <guid isPermaLink="true">http://fsz285.github.io/2015/06/16/fuers-grobe.html</guid>
         <description>&lt;p&gt;Nachdem ich letzte Woche das Holz verleimt hatte, war es nun an der Zeit, die Schablone herzustellen, die ich benutzen möchte, um die Gitarrenkontur zu sägen und zu fräsen. Für die Schablone hatte ich mir eine 1,2 mm starke MDF-Platte aus dem Baumarkt geholt. Auf die Platte habe ich dann den 1:1 ausgedruckten Telecaster Plan aufgeleimt (Ich habe Tapetenkleister verwendet).&lt;/p&gt;
 
 &lt;p&gt;Dann ging ich mit der Dekupiersäge ans Werk. Prinzipiell hätte ich auch ein wenig warten können, bis ich in die Holzwerkstatt um die Ecke konnte. Dort gibt es eine Bandsäge, mit der das Erstellen der Schablone vermutlich einfacher gewesen wäre. So viel Geduld hatte ich aber nicht…&lt;/p&gt;
@@ -26,8 +26,8 @@
     
       <item>
         <title>Wo gehobelt wird...</title>
-        <link>http://example.com/2015/06/08/wo-gehobelt-wird.html</link>
-        <guid isPermaLink="true">http://example.com/2015/06/08/wo-gehobelt-wird.html</guid>
+        <link>http://fsz285.github.io/2015/06/08/wo-gehobelt-wird.html</link>
+        <guid isPermaLink="true">http://fsz285.github.io/2015/06/08/wo-gehobelt-wird.html</guid>
         <description>&lt;p&gt;Die erste Aufgabe, die es zu erledigen galt, war, die beiden Stücke Mahagoni, die ich eingekauft hatte, abzurichten (glatt zu hobeln), so dass ich sie zusammenleimen konnte. Leider stellte sich sehr schnell heraus, dass mein Vorhaben, das Abrichten mit einem Handhobel zu machen zumindest mit meinem überschaubaren handwerklichen Können utopisch war.&lt;/p&gt;
 
 &lt;p&gt;Nachdem ich es eine ganze Weile (etwa 3 Stunden) sowohl mit dem Handhobel als auch mit dem Schwingschleifer versucht hatte, kam ich zum Entschluss, dass ich hier entweder besseres Werkzeug oder professionelle Hilfe, oder am besten beides brauche.&lt;/p&gt;
@@ -47,8 +47,8 @@
     
       <item>
         <title>Darf ich vorstellen - Projekt Telecaster!</title>
-        <link>http://example.com/2015/06/03/darf-ich-vorstellen.html</link>
-        <guid isPermaLink="true">http://example.com/2015/06/03/darf-ich-vorstellen.html</guid>
+        <link>http://fsz285.github.io/2015/06/03/darf-ich-vorstellen.html</link>
+        <guid isPermaLink="true">http://fsz285.github.io/2015/06/03/darf-ich-vorstellen.html</guid>
         <description>&lt;p&gt;Eines der prominentesten Einsatzgebiete unseres Tablets ist das schauen von Youtube Videos während ich koche, spüle, oder die Küche aufräume. Zu diesen Zeiten sehe ich mir sehr gerne die Videos von &lt;a href=&quot;https://www.youtube.com/user/RobChappers&quot;&gt;Rob Chapman und Captain Anderton&lt;/a&gt; an.
 Als mir aber irgendwann die Videos auf diesem Kanal ausgegangen sind, habe ich angefangen, mir anzusehen, wie die E-Gitarren, die Chappers und der Captain vorstellen, eigentlich gefertigt werden.&lt;/p&gt;
 
