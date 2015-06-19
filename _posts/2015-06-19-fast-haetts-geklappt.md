@@ -1,0 +1,12 @@
+---
+layout: post
+title: Fast hätt's geklappt.
+tag: telecaster
+---
+Gestern kam eine weitere Amazon Lieferung bei mir an. Der Inhalt: das Fräserbit, mit dem ich den grob gesägten Korpus an die Schablone anpassen wollte. Es sah auch alles gut aus - bis auf die Tatsache, dass Bit nicht in die Fräse reinpasst. Es stellte sich heraus, dass im Moment die Spannzange für 8 mm Bits in der Fräse ist. Die 6 mm Zange, die den Fräser evtl. hätte aufnehmen können, fehlt. Warum hätte die Zange das Bit nur evtl. aufnehmen können? Weil das Fräserbit in eine Viertelzoll Spannzange reingehört. Das wären 6,3... mm. Aber das müsste vielleicht irgendwie zu machen sein.
+
+Das Problem ist nun leider, dass die Fräse, die ich bei mir zu Hause zur Verfügung habe vor Jahren bei Aldi gekauft wurde und Ersatzteile deswegen ein Problem sein könnten. Meine erste Anlaufstelle war Amazon, dort fand ich aber nichts. Nach ein Bisschen Recherche habe ich dann aber Tatsächlich Ersatzteile für die Fräse gefunden - auf [www.servotool.eu](http://www.servotool.eu). Überraschenderweise war auch tatsächlich die benötigte Spannzange für wenig Geld verfügbar. Wenn nicht die Bearbeitung und der Versand noch mal doppelt so viel wie das Ersatzteil kosten würden, wäre es ein echtes Schnäppchen gewesen. Nichtsdestotrotz habe ich das Ersatzteil bestellt.
+
+Heute morgen dann, als ich mir die Auftragsbestätigungsmail nochmail angesehen habe, realisierte ich dann, dass ich das falsche Ersatzteil bestellt habe. Es hat zwar die Artikelnummer, die im Handbuch der Fräse eingetragen ist, ist aber laut Beschreibung wohl nicht die Spannzange, sondern lediglich eine Feder für die Spannzange. Den Auftrag zu stornieren war nun aber schon eine größere Herausforderung. Nach einem kurzen Telefonat mit einem freundlichen Holländer, wurde mir aber versichert, dass der Auftrag storniert und der Kaufpreis zurückerstattet wird.
+
+Ich weiß mittlerweile außerdem auch, dass die Spannzange selbst auch als Ersatzteil verfügbar ist. Sobald ich also weiß, dass mein Auftrag storniert wurde, werde ich eine neue Bestellung absetzen. Warum warte ich so lange? Wenn das mit dem Stornieren nicht geklappt hat, lohnt es sich wahrscheinlich tatsächlich nicht, eine zweite Bestellung abzusetzen, da die Fräse nicht besonders toll ist, und die Ersatzteile wahrscheinlich in etwa ihrem Wert gleich kommen. Bevor ich hier also eine Odysee beginee, bestelle ich mir eher eine neue Fräse.
